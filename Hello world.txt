@@ -2,6 +2,4 @@ print (Hello world!)
 # вставка коментария
 print (Hello everybody!)
 print ("Hi!");
-
-
 print ("Hello my dear frends");
