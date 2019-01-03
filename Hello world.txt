@@ -1,2 +1,3 @@
 print (Hello world!)
+# вставка коментария
 print (Hello everybody!)
